@@ -1,4 +1,4 @@
-# Document
+# Documentation of Generic IoT Gateways
 
 The Document consists of 
 
